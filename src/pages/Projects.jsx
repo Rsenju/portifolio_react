@@ -3,8 +3,8 @@ const mainProject = {
   description: "Pequenas ONGs e abrigos de animais frequentemente enfrentam dificuldades de visibilidade digital.",
   details: "O PetFinder centraliza informações de ONGs de uma região, facilitando adoções e doações de forma organizada e acessível.",
   tech: ["React", "JavaScript", "Tailwind", "Vite"],
-  github: "https://github.com/Rsenju/Projeto---SitePet",
-  deploy: "https://sitepetlanding-page.vercel.app",
+  github: "https://github.com/Rsenju/petfinder",
+  deploy: "https://petfinder-six.vercel.app",
   image: "/petfinder-preview.png"
 }
 
